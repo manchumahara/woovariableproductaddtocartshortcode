@@ -1,0 +1,2 @@
+woovariableproductaddtocartshortcode
+====================================
